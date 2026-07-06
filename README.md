@@ -5,7 +5,7 @@ A modern **AI-powered Expense Tracker** built using the **PERN Stack (PostgreSQL
 ---
 
 ## 🚀 Live Demo
-https://ai-expense-tracker-6v6cjijfa-mehak-uis-projects.vercel.app/login
+[https://ai-expense-tracker-6v6cjijfa-mehak-uis-projects.vercel.app/login](https://ai-expense-tracker-6v6cjijfa-mehak-uis-projects.vercel.app)
 
 ---
 # ✨ Features
